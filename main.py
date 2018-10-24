@@ -1,1 +1,3 @@
-print("HOLA")
+import capturarvideo
+
+capturarvideo.mostrar()
