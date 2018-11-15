@@ -4,6 +4,7 @@
     <list default="true" id="99abb5c1-a795-407b-9f46-f5b2df9587ff" name="Default Changelist" comment="">
 <<<<<<< refs/remotes/metodosNumericos/develop
 <<<<<<< refs/remotes/metodosNumericos/develop
+<<<<<<< refs/remotes/metodosNumericos/develop
       <change beforePath="$PROJECT_DIR$/calcDist.py" beforeDir="false" afterPath="$PROJECT_DIR$/calcDist.py" afterDir="false" />
 =======
       <change afterPath="$PROJECT_DIR$/canny.py" afterDir="false" />
@@ -19,6 +20,15 @@
       <change beforePath="$PROJECT_DIR$/capturarvideo.py" beforeDir="false" afterPath="$PROJECT_DIR$/capturarvideo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
 >>>>>>> mas imágenes de prueba
+=======
+      <change afterPath="$PROJECT_DIR$/imagenes/IMG_20181115_132008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagenes/IMG_20181115_132010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medirdistancia.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/capturarvideo.py" beforeDir="false" afterPath="$PROJECT_DIR$/capturarvideo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mezcla.py" beforeDir="false" afterPath="$PROJECT_DIR$/mezcla.py" afterDir="false" />
+>>>>>>> minrect, mass center  & tam pix
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,20 +81,20 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="449" />
+          <entry key="py" value="556" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="449" />
+          <entry key="Python" value="556" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="jpg" value="1" />
-          <entry key="py" value="6" />
+          <entry key="py" value="8" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
@@ -92,7 +102,7 @@
         <counts>
           <entry key="Image" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="6" />
+          <entry key="Python" value="8" />
         </counts>
       </usages-collector>
     </session>
@@ -140,14 +150,28 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/minrect.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7" />
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/canny.py">
+        <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-386">
-              <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="29" />
+            <state relative-caret-position="138">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cannycontours.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -156,8 +180,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.py">
+        <entry file="file://$PROJECT_DIR$/mezcla.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< refs/remotes/metodosNumericos/develop
 <<<<<<< refs/remotes/metodosNumericos/develop
 <<<<<<< refs/remotes/metodosNumericos/develop
             <state relative-caret-position="34">
@@ -169,8 +194,12 @@
             <state relative-caret-position="110">
               <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
 >>>>>>> imagenes
+=======
+            <state relative-caret-position="414">
+              <caret line="57" column="8" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="34" />
+>>>>>>> minrect, mass center  & tam pix
               <folding>
-                <element signature="e#0#20#0" expanded="true" />
+                <element signature="e#0#10#0" expanded="true" />
               </folding>
 >>>>>>> mas imágenes de prueba
             </state>
@@ -179,15 +208,19 @@
       </file>
       <file pinned="false" current-in-tab="true">
 <<<<<<< refs/remotes/metodosNumericos/develop
+<<<<<<< refs/remotes/metodosNumericos/develop
         <entry file="file://$PROJECT_DIR$/calcDist.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
               <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
 =======
         <entry file="file://$PROJECT_DIR$/cannycontours.py">
+=======
+        <entry file="file://$PROJECT_DIR$/medirdistancia.py">
+>>>>>>> minrect, mass center  & tam pix
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+            <state relative-caret-position="322">
+              <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -199,6 +232,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/capturarvideo.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< refs/remotes/metodosNumericos/develop
 <<<<<<< refs/remotes/metodosNumericos/develop
 <<<<<<< refs/remotes/metodosNumericos/develop
             <state relative-caret-position="442">
@@ -226,11 +260,19 @@
                 <caret column="16" selection-start-column="16" selection-end-column="16" />
               </first_editor>
               <second_editor />
+=======
+            <state relative-caret-position="177">
+              <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+>>>>>>> minrect, mass center  & tam pix
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< refs/remotes/metodosNumericos/develop
         <entry file="file://$PROJECT_DIR$/Documentos_Relacionados.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
@@ -250,6 +292,15 @@
             <state relative-caret-position="484">
               <caret line="26" selection-start-line="26" selection-end-line="26" />
 >>>>>>> mas imágenes de prueba
+=======
+        <entry file="file://$PROJECT_DIR$/canny.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1058">
+              <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+>>>>>>> minrect, mass center  & tam pix
             </state>
           </provider>
         </entry>
@@ -273,6 +324,7 @@
         <option value="$PROJECT_DIR$/explicacion.ipynb" />
         <option value="$PROJECT_DIR$/pruebas.py" />
         <option value="$PROJECT_DIR$/links.txt" />
+<<<<<<< refs/remotes/metodosNumericos/develop
         <option value="$PROJECT_DIR$/capturarvideo.py" />
 <<<<<<< refs/remotes/metodosNumericos/develop
         <option value="$PROJECT_DIR$/README.md" />
@@ -293,16 +345,27 @@
 >>>>>>> mas imágenes de prueba
   <component name="ProjectFrameBounds" extendedState="6">
 =======
+=======
+>>>>>>> minrect, mass center  & tam pix
         <option value="$PROJECT_DIR$/canny+contours.py" />
         <option value="$PROJECT_DIR$/cannycontours.py" />
+        <option value="$PROJECT_DIR$/capturarvideo.py" />
+        <option value="$PROJECT_DIR$/mezcla.py" />
         <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/medirdistancia.py" />
       </list>
     </option>
   </component>
+<<<<<<< refs/remotes/metodosNumericos/develop
   <component name="ProjectFrameBounds" extendedState="7">
 >>>>>>> imagenes
     <option name="x" value="260" />
     <option name="y" value="20" />
+=======
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="801" />
+    <option name="y" value="165" />
+>>>>>>> minrect, mass center  & tam pix
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -324,11 +387,6 @@
 =======
             <path>
               <item name="metodosNumericos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="metodosNumericos" type="462c0819:PsiDirectoryNode" />
-              <item name="imagenes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="metodosNumericos" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
 >>>>>>> mas imágenes de prueba
@@ -341,7 +399,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -422,6 +480,7 @@
   <component name="ToolWindowManager">
 <<<<<<< refs/remotes/metodosNumericos/develop
 <<<<<<< refs/remotes/metodosNumericos/develop
+<<<<<<< refs/remotes/metodosNumericos/develop
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
     <editor active="true" />
 =======
@@ -435,13 +494,19 @@
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49836066" visible="true" weight="0.15595363" />
 >>>>>>> imagenes
+=======
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49836066" visible="true" weight="0.105374075" />
+>>>>>>> minrect, mass center  & tam pix
       <window_info id="Structure" order="1" sideWeight="0.50109893" side_tool="true" weight="0.17913593" />
       <window_info id="Favorites" order="2" sideWeight="0.50163937" side_tool="true" weight="0.17913593" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19739696" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25921908" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -503,29 +568,17 @@
           <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
 =======
     <entry file="file://$PROJECT_DIR$/minrect.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mezcla.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
+        <state relative-caret-position="-7" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/imagenes/IMG_20181115_120452.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/capturarvideo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-110">
-          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/canny.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-386">
-          <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="29" />
+        <state relative-caret-position="1058">
+          <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="34" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
@@ -535,6 +588,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< refs/remotes/metodosNumericos/develop
 <<<<<<< refs/remotes/metodosNumericos/develop
 <<<<<<< refs/remotes/metodosNumericos/develop
         <state relative-caret-position="442">
@@ -547,6 +601,10 @@
         <state relative-caret-position="110">
           <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
 >>>>>>> imagenes
+=======
+        <state relative-caret-position="138">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+>>>>>>> minrect, mass center  & tam pix
           <folding>
             <element signature="e#0#20#0" expanded="true" />
           </folding>
@@ -582,8 +640,38 @@
 =======
     <entry file="file://$PROJECT_DIR$/cannycontours.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        <state relative-caret-position="336">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mezcla.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="57" column="8" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capturarvideo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medirdistancia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>

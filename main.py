@@ -1,7 +1,8 @@
 import capturarvideo
-import cannycontours
+import canny
 import mezcla
+import medirdistancia
 import minrect
 #capturarvideo.mostrar()
-cannycontours.auto_canny()
+medirdistancia.distacia()
 #minrect._bounding_box_of(0.004)
