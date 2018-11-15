@@ -1,5 +1,8 @@
 import cv2
 import numpy as np
+import calcDist
+
+a , b = 0,0
 
 def distacia():
     #Captura de video a traves de la webcam
@@ -29,9 +32,11 @@ def distacia():
             area = cv2.contourArea(contour) #funcion de opencv que obtiene los contornos
             if(area>300):
                 x,y,w,h = cv2.boundingRect(contour) #Encuentra coordenadas de los contornos.
-                print("Tam pix: " + str(x) + " " +  str(y))
+                #print("Tam pix: " + str(x) + " " +  str(y))
+
+                a , b = str(round(calcDist.calcDist(x,1000,77)) ),str(round(calcDist.calcDist(y,20,77)))
                 img = cv2.rectangle(img,(x,y),(x+w,y+h),(255,0,0),2)
-                cv2.putText(img,"Marcador",(x,y),cv2.FONT_HERSHEY_SIMPLEX, 0.7, (255,0,0))
+                cv2.putText(img,"[" + str(x) + "," +  str(y) + "]px " + "[" + a + "," + b+ "]mm " ,(x,y),cv2.FONT_HERSHEY_SIMPLEX, 0.7, (255,0,0))
 
 
                 M = cv2.moments(contour) #Se obtiene el centro de masa de los marcadores enconrados.
