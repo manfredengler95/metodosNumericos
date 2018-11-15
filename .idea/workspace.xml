@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99abb5c1-a795-407b-9f46-f5b2df9587ff" name="Default Changelist" comment="">
+<<<<<<< Updated upstream
 <<<<<<< refs/remotes/metodosNumericos/develop
 <<<<<<< refs/remotes/metodosNumericos/develop
 <<<<<<< refs/remotes/metodosNumericos/develop
@@ -29,12 +30,22 @@
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mezcla.py" beforeDir="false" afterPath="$PROJECT_DIR$/mezcla.py" afterDir="false" />
 >>>>>>> minrect, mass center  & tam pix
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/metodosNumericos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/metodosNumericos.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcDist.py" beforeDir="false" afterPath="$PROJECT_DIR$/calcDist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/metodosNumericos$main.coverage" NAME="main Coverage Results" MODIFIED="1542299715743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1368078076">
@@ -130,7 +141,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="2" />
-          <entry key="py" value="1041" />
+          <entry key="py" value="1358" />
           <entry key="txt" value="63" />
         </counts>
       </usages-collector>
@@ -138,7 +149,7 @@
         <counts>
           <entry key="Markdown" value="2" />
           <entry key="PLAIN_TEXT" value="63" />
-          <entry key="Python" value="1041" />
+          <entry key="Python" value="1358" />
         </counts>
       </usages-collector>
     </session>
@@ -158,6 +169,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="138">
               <caret line="6" selection-start-line="6" selection-end-line="6" />
               <folding>
@@ -202,6 +214,13 @@
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
 >>>>>>> mas imágenes de prueba
+=======
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+>>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
@@ -211,6 +230,7 @@
 <<<<<<< refs/remotes/metodosNumericos/develop
         <entry file="file://$PROJECT_DIR$/calcDist.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="238">
               <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
 =======
@@ -225,6 +245,10 @@
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
 >>>>>>> imagenes
+=======
+            <state relative-caret-position="68">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+>>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
@@ -276,7 +300,7 @@
         <entry file="file://$PROJECT_DIR$/Documentos_Relacionados.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -324,12 +348,16 @@
         <option value="$PROJECT_DIR$/explicacion.ipynb" />
         <option value="$PROJECT_DIR$/pruebas.py" />
         <option value="$PROJECT_DIR$/links.txt" />
+<<<<<<< Updated upstream
 <<<<<<< refs/remotes/metodosNumericos/develop
+=======
+>>>>>>> Stashed changes
         <option value="$PROJECT_DIR$/capturarvideo.py" />
 <<<<<<< refs/remotes/metodosNumericos/develop
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Documentos Relacionados.txt" />
         <option value="$PROJECT_DIR$/Documentos_Relacionados.txt" />
+        <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/calcDist.py" />
       </list>
     </option>
@@ -399,6 +427,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+<<<<<<< Updated upstream
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -408,6 +437,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\manfr\PycharmProjects\metodosNumericos\metodosNumericos" />
     </key>
+=======
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+>>>>>>> Stashed changes
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -434,9 +466,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\joshe\Anaconda3\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
@@ -506,7 +538,11 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< Updated upstream
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25921908" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295082" />
+>>>>>>> Stashed changes
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -562,6 +598,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -587,6 +624,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
+=======
+    <entry file="file://$PROJECT_DIR$/capturarvideo.py">
+>>>>>>> Stashed changes
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< refs/remotes/metodosNumericos/develop
 <<<<<<< refs/remotes/metodosNumericos/develop
@@ -616,12 +656,23 @@
     <entry file="file://$PROJECT_DIR$/Documentos_Relacionados.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/calcDist.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="238">
           <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
 =======
@@ -676,6 +727,10 @@
             <element signature="e#0#10#0" expanded="true" />
           </folding>
 >>>>>>> imagenes
+=======
+        <state relative-caret-position="68">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
