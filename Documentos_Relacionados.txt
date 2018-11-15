@@ -1,0 +1,9 @@
+1.- https://www.pyimagesearch.com/2016/03/21/ordering-coordinates-clockwise-with-python-and-opencv/
+2.- https://www.pyimagesearch.com/2016/03/28/measuring-size-of-objects-in-an-image-with-opencv/
+3.- https://www.pyimagesearch.com/2016/04/04/measuring-distance-between-objects-in-an-image-with-opencv/
+4.- https://www.pyimagesearch.com/2015/01/19/find-distance-camera-objectmarker-using-python-opencv/
+5.- http://bdigital.unal.edu.co/4204/1/CarlosJavierCastroQuintana.2011.pdf
+6.- http://www.jpereira.net/gestion-de-color-articulos/mediciones-y-asignacion-de-escala-en-fotografias
+7.- https://www.researchgate.net/post/How_to_calculate_the_distance_of_object_using_image_processing
+8.- https://respuestas.me/q/C-mo-calculo-la-distancia-de-un-objeto-en-una-foto-24330486072
+9.- http://fotoigual.com/2-calculo-geometrico-la-imagen/   (Teoría)
