@@ -11,6 +11,9 @@ def calcTamañoReal(tamObjSensor, distFocalLente, distNodalObj):
     tamañoReal = (tamObjSensor * distNodalObj) / distFocalLente
     return tamañoReal
 
+def calcDistFocalLente(tamObjSensor, distNodalObj, tamObjReal):
+    distFocalLente = (tamObjSensor * distNodalObj) / tamObjReal
+    return distFocalLente
 def verificarRelacion(tamObjSensor, distFocalLente, distNodalObj, tamObjReal):
     if ((tamObjSensor / distFocalLente) == (tamObjReal / distNodalObj)):
         print "Se cumple la relación"
