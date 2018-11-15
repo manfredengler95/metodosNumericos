@@ -1,7 +1,7 @@
 import capturarvideo
-import canny
+import cannycontours
 import mezcla
 import minrect
-capturarvideo.mostrar()
-#mezcla.hola()
+#capturarvideo.mostrar()
+cannycontours.auto_canny()
 #minrect._bounding_box_of(0.004)

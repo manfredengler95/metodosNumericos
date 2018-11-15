@@ -1,6 +1,7 @@
 import cv2
 import numpy as np
 
+
 cap = cv2.VideoCapture(0)
 size = 5
 while (1):
