@@ -9,5 +9,5 @@ medirdistancia.distacia()
 #minrect._bounding_box_of(0.004)
 
 capturarvideo.mostrar()
-
+#testing
 #test trows 260x200
